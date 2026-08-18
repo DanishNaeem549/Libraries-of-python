@@ -11,7 +11,6 @@ Used for numerical computing, arrays, mathematical operations, and scientific ca
 ```python
 import numpy as np
 ```
-
 ### Pandas
 
 Used for data manipulation, data analysis, DataFrames, and working with structured datasets.
