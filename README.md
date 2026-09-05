@@ -161,6 +161,7 @@ pip install requests
 pip install beautifulsoup4
 pip install flask
 pip install fastapi
+pip install Tensorflow
 ```
 
 ## 🎯 Learning Objectives
